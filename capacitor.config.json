@@ -1,0 +1,6 @@
+{
+  "appId": "htech_first.app",
+  "appName": "HTech_First_App",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
